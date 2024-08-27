@@ -1,0 +1,8 @@
+@media(max-width:576px)
+{
+    h1, .container, p, ul{
+        text-align: center;
+    }
+}
+.container{margin: 20px 0px 20px 0px;}
+
